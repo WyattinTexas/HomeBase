@@ -1,6 +1,8 @@
 # devin-package-template
 This repo should be used as a template for Python packages and templates.
 
+This package requires Python 3.11 or higher.
+
 Most of commands I use here can be found in the `Makefile`, so you can use that as a reference.
 
 + Environment setup
